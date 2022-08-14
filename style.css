@@ -42,10 +42,6 @@ nav > a {
     transition-duration: 1s;
 }
 
-nav > .navb {
-    margin: 15px 10px 15px 0px;
-}
-
 nav > a:hover {
     background-color: #2FA866
 }
