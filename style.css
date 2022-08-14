@@ -34,13 +34,14 @@ nav {
 }
 
 nav > a {
+    background-repeat: no-repeat;
+    align-content: auto;
     color:#9cf8c5;
     padding: 10px;
     margin: 15px 10px 15px 0px;
     border-radius: 5px;
     text-decoration: none;
     transition-duration: 1s;
-    text-justify: auto;
 }
 
 nav > a:hover {
